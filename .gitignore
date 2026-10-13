@@ -1,2 +1,11 @@
-git config --global user.name "Helene Mk"
-git config --global user.email "helenemogoumken@gmail.com"
+# secrets
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# editor
+.vscode/
